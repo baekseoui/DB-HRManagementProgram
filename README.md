@@ -8,4 +8,5 @@
 설명서를 보시려면 아래 링크의 PDF 형식의 문서를 참고해 주시기 바랍니다.  
 
 
-[프로젝트 설명서(pdf)](https://drive.google.com/file/d/1h5rrLTaiBYC81fOOit2R8MEsTmCg_uZd/view?usp=sharing)
+[전체 프로젝트 설명서(pdf)](https://drive.google.com/file/d/1h5rrLTaiBYC81fOOit2R8MEsTmCg_uZd/view?usp=sharing)
+[참여한 부분 설명서(pdf)](https://drive.google.com/file/d/1UC4hDehUrxD1htITiHngAXdORKA3lyn8/view?usp=sharing)
